@@ -1,0 +1,9 @@
+.charsheet label {
+    display: inline;
+    width: 100px;
+    text-align: right;
+}
+
+.charsheet {
+    background-image: url("https://newevolutiondesigns.com/images/freebies/white-wallpaper-18.jpg");
+}
